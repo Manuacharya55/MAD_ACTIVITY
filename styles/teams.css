@@ -142,4 +142,7 @@ p {
   #text-holder h1 {
     font-size: 5rem;
   }
+  ul li{
+      font-size: 20px;
+    }
 }

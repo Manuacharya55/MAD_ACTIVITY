@@ -240,4 +240,7 @@ a {
     #nav-bar{
         padding: 10px 40px;
     }
+  ul li{
+      font-size: 20px;
+    }
   }
